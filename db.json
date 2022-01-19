@@ -1,28 +1,28 @@
 {
     "users": [
         {
-            "id": "1001",
+            "id": 1001,
             "name" : "Anthony Comon 1",
             "parkingLot" : "第一ゴールデンパーキング",
             "parkingPlan" : "全日（24時間",
             "booking" : "2021-07-10"
         },
         {
-            "id": "1002",
+            "id": 1002,
             "name" : "Anthony Comon 1",
             "parkingLot" : "第一ゴールデンパーキング",
             "parkingPlan" : "全日（24時間",
             "booking" : "2021-07-10"
         },
         {
-            "id": "1003",
+            "id": 1003,
             "name" : "Anthony Comon 1",
             "parkingLot" : "第一ゴールデンパーキング",
             "parkingPlan" : "全日（24時間",
             "booking" : "2021-07-10"
         },
         {
-            "id": "1004",
+            "id": 1004,
             "name" : "Anthony Comon 1",
             "parkingLot" : "第一ゴールデンパーキング",
             "parkingPlan" : "全日（24時間",
@@ -33,28 +33,28 @@
 
     "companies": [
         {
-            "id": "1001",
+            "id": 1001,
             "name" : "Anthony Comon 1",
             "parkingLot" : "第一ゴールデンパーキング",
             "parkingPlan" : "全日（24時間",
             "booking" : "2021-07-10"
         },
         {
-            "id": "1002",
+            "id": 1002,
             "name" : "Anthony Comon 1",
             "parkingLot" : "第一ゴールデンパーキング",
             "parkingPlan" : "全日（24時間",
             "booking" : "2021-07-10"
         },
         {
-            "id": "1003",
+            "id": 1003,
             "name" : "Anthony Comon 1",
             "parkingLot" : "第一ゴールデンパーキング",
             "parkingPlan" : "全日（24時間",
             "booking" : "2021-07-10"
         },
         {
-            "id": "1004",
+            "id": 1004,
             "name" : "Anthony Comon 1",
             "parkingLot" : "第一ゴールデンパーキング",
             "parkingPlan" : "全日（24時間",
